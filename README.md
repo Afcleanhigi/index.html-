@@ -1,4 +1,8 @@
-# index.html-
+<!-- index.html -->
+<head>
+    ...
+    <link rel="stylesheet" href="styles.css">
+</head>
 af-clean-agendamentos
 <!DOCTYPE html>
 <html lang="pt-BR">
